@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jdom-2.0.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../_download/jdom-2.0.5/jdom-2.0.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
