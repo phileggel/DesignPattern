@@ -2,47 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff1366bc-19c9-4f09-bdab-8c0b4dd01cb4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPattern/src/pattern/state/ATMMachine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPattern/src/pattern/proxy/ATMProxy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPattern/src/pattern/state/ATMState.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPattern/src/pattern/chain_of_responsability/AddNumbers.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPattern/src/pattern/memento/Caretaker.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPattern/src/pattern/chain_of_responsability/Chain.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPattern/src/pattern/mediator/Colleague.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPattern/src/pattern/interpreter/ConversionContext.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPattern/src/pattern/interpreter/Cups.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPattern/src/pattern/chain_of_responsability/DivideNumbers.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPattern/src/pattern/interpreter/Expression.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPattern/src/pattern/interpreter/Gallons.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPattern/src/pattern/proxy/GetATMData.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPattern/src/pattern/mediator/GormanSlacks.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPattern/src/pattern/state/HasCard.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPattern/src/pattern/state/HasPin.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPattern/src/pattern/mediator/JTPoorman.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPattern/src/pattern/interpreter/MeasurementConversion.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPattern/src/pattern/mediator/Mediator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPattern/src/pattern/memento/Memento.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPattern/src/pattern/chain_of_responsability/MultNumbers.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPattern/src/pattern/state/NoCard.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPattern/src/pattern/state/NoCash.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPattern/src/pattern/chain_of_responsability/Numbers.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPattern/src/pattern/memento/Originator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPattern/src/pattern/interpreter/Pints.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPattern/src/pattern/interpreter/Quarts.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPattern/src/pattern/mediator/StockMediator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPattern/src/pattern/mediator/StockOffer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPattern/src/pattern/chain_of_responsability/SubstractNumbers.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPattern/src/pattern/interpreter/Tablespoons.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPattern/src/pattern/state/TestATMMachine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPattern/src/pattern/memento/TestMemento.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPattern/src/pattern/mediator/TestStockMediator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPattern/src/pattern/chain_of_responsability/TextCalcChain.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPattern/src/pattern/chain_of_responsability/package-info.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPattern/src/pattern/interpreter/package-info.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPattern/src/pattern/mediator/package-info.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPattern/src/pattern/memento/package-info.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPattern/src/pattern/proxy/package-info.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPattern/src/pattern/state/package-info.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="BaniasExample.iws" />
@@ -74,7 +33,7 @@
       <file leaf-file-name="package-info.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DesignPattern/src/pattern/memento/package-info.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
+            <state vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="306">
               <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
               <folding />
             </state>
@@ -84,7 +43,7 @@
       <file leaf-file-name="Originator.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DesignPattern/src/pattern/memento/Originator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="578">
+            <state vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="578">
               <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
               <folding />
             </state>
@@ -94,11 +53,9 @@
       <file leaf-file-name="Caretaker.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DesignPattern/src/pattern/memento/Caretaker.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
+            <state vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="374">
               <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding>
-                <element signature="e#177#186#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -106,8 +63,8 @@
       <file leaf-file-name="TestMemento.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DesignPattern/src/pattern/memento/TestMemento.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.8613862" vertical-offset="2049" max-vertical-offset="3145">
-              <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+            <state vertical-scroll-proportion="0.28401726" vertical-offset="2049" max-vertical-offset="3145">
+              <caret line="136" column="0" selection-start-line="136" selection-start-column="0" selection-end-line="136" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -186,10 +143,10 @@
     <treeState />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="937" />
-    <option name="y" value="22" />
-    <option name="width" value="1013" />
-    <option name="height" value="1040" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -243,68 +200,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BaniasExample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BaniasExample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BaniasExample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DesignPattern" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BaniasExample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DesignPattern" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BaniasExample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DesignPattern" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="memento" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="Scope">
         <subPane subId="Production">
           <PATH>
@@ -379,6 +274,26 @@
             <PATH_ELEMENT USER_OBJECT="src">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BaniasExample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BaniasExample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -538,6 +453,19 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -563,19 +491,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -736,7 +651,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="937" y="22" width="1013" height="1040" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -754,7 +669,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32988358" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29660144" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14194237" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1111,7 +1026,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.07375271" vertical-offset="0" max-vertical-offset="922">
           <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1127,7 +1041,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
           <caret line="11" column="55" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1135,9 +1048,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
           <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <element signature="e#177#186#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1151,8 +1062,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DesignPattern/src/pattern/memento/TestMemento.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.8613862" vertical-offset="2049" max-vertical-offset="3145">
-          <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+        <state vertical-scroll-proportion="0.28401726" vertical-offset="2049" max-vertical-offset="3145">
+          <caret line="136" column="0" selection-start-line="136" selection-start-column="0" selection-end-line="136" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
