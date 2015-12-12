@@ -1,4 +1,4 @@
-package com.phileagledev.xml; /**
+package com.phileagledev.parsexml; /**
  * Created by Phil on 24/06/2014.
  */
 
@@ -17,7 +17,7 @@ public class ParserXML {
 
     public static void main(String[] args) {
 
-        Document xmlDoc = getDocument("./xml_test/src/tvshows5.xml");
+        Document xmlDoc = getDocument("./xml_test/src/tvshows5.parsexml");
         System.out.println("Root: " + xmlDoc.getDocumentElement().getNodeName());
 
         NodeList listOfShows = xmlDoc.getElementsByTagName("show");

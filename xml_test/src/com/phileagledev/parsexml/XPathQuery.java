@@ -1,4 +1,4 @@
-package com.phileagledev.xml; /**
+package com.phileagledev.parsexml; /**
  * Created by Phil on 24/06/2014.
  */
 
@@ -25,7 +25,7 @@ public class XPathQuery {
 
         try {
             builder = domFactory.newDocumentBuilder();
-            doc = builder.parse("./xml_test/src/tvshows5.xml");
+            doc = builder.parse("./xml_test/src/tvshows5.parsexml");
         } catch (ParserConfigurationException e) {
             e.printStackTrace();
         } catch (SAXException e) {

@@ -1,4 +1,4 @@
-package com.phileagledev.xml;
+package com.phileagledev.parsexml;
 
 import java.io.File;
 import java.io.FileOutputStream;
@@ -61,7 +61,7 @@ public class CreateXML {
 
         XMLOutputter xmlOutputter = new XMLOutputter(Format.getPrettyFormat());
         try {
-            xmlOutputter.output(doc, new FileOutputStream(new File("./xml_test/src/jdom_made.xml")));
+            xmlOutputter.output(doc, new FileOutputStream(new File("./xml_test/src/jdom_made.parsexml")));
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -76,7 +76,7 @@ public class CreateXML {
 
         try {
 
-            Document readDoc = builder.build(new File("./xml_test/src/jdom_made.xml"));
+            Document readDoc = builder.build(new File("./xml_test/src/jdom_made.parsexml"));
 
             System.out.println("Root : " + readDoc.getRootElement());
             System.out.println("Show : " + readDoc.getRootElement().getChild("show").getChildText("name"));

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
 <!DOCTYPE tvshow SYSTEM "tvshows5.dtd" >
-<?xml-stylesheet type="text/xsl" href="tvshows5.xsl" ?> -->
+<?parsexml-stylesheet type="text/xsl" href="tvshows5.xsl" ?> -->
 <tvshow>
   <show>
     <name id_code="show_001">Life On Mars</name>
